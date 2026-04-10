@@ -78,3 +78,5 @@ outputs/
 ## 🚀 Author
 
 Mahjabin
+Master in Financial Risk and Data Analysis
+University of Rome “La Sapienza”
